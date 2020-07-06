@@ -7,7 +7,7 @@ A full-featured Tamagotchi, digitally remastered.
 ## Included Files
 
 - `Geniegotchi.java`: A customizable Geniegotchi object that allows users to
-rename, feed, play, rename, and ask for fortunes randomly chosen from the 
+feed, play, rename, and ask for fortunes randomly chosen from the 
 pre-generated list.
 
 - `GeniegotchiDemo.java`: The main program with the option to initialize a
