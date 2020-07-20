@@ -2,7 +2,7 @@
 
 A full-featured Tamagotchi, digitally remastered.
 
-[Author: Bill Zhao](www.iambillzhao.com)
+[Author: Bill Zhao](https://www.iambillzhao.com/)
 
 ## Included Files
 
